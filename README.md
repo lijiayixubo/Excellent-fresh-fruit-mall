@@ -30,6 +30,10 @@ npm run build
 ```
 npm run lint
 ```
+### 登录
+<img src="https://img1.imgtp.com/2023/09/08/lqzHlzSc.png" alt="首页" width="500" height="750">
+### 注册
+<img src="https://img1.imgtp.com/2023/09/08/OJwec03K.png" alt="首页" width="500" height="750">
 ### 首页
 <img src="https://img1.imgtp.com/2023/09/08/EFE4At0l.png" alt="首页" width="500" height="750">
 
