@@ -21,6 +21,7 @@ npm run serve
 ### 编译
 
 ```
+
 npm run build
 ```
 
@@ -29,3 +30,5 @@ npm run build
 ```
 npm run lint
 ```
+
+![首页](https://img1.imgtp.com/2023/09/08/EFE4At0l.png)
