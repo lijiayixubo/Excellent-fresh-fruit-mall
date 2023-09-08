@@ -31,5 +31,5 @@ npm run build
 npm run lint
 ```
 
-<img src="https://img1.imgtp.com/2023/09/08/lqzHlzSc.png" alt="登录" width="45%" height="300"><img src="https://img1.imgtp.com/2023/09/08/lqzHlzSc.png" alt="注册" width="33%" height="300"><img src="https://img1.imgtp.com/2023/09/08/EFE4At0l.png" alt="首页" width="45%" height="300">
+<img src="https://img1.imgtp.com/2023/09/08/lqzHlzSc.png" alt="登录" width="45%" height="300"><img src="https://img1.imgtp.com/2023/09/08/lqzHlzSc.png" alt="注册" width="45%" height="300"><img src="https://img1.imgtp.com/2023/09/08/EFE4At0l.png" alt="首页" width="45%" height="700">
 
