@@ -32,13 +32,13 @@ npm run lint
 ```
 ### 项目运行截图 
 
-<img src="https://img1.imgtp.com/2023/09/08/lqzHlzSc.png" alt="注册" width="45%" height="250">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img1.imgtp.com/2023/09/08/fXMgKr0p.png" alt="登录" width="45%" height="250">
-<img src="https://img1.imgtp.com/2023/09/08/EFE4At0l.png" alt="首页" width="45%" height="700">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img1.imgtp.com/2023/09/08/IXNVERBE.png" alt="首页" width="45%" height="700">
-<img src="https://img1.imgtp.com/2023/09/08/OJwec03K.png" alt="首页" width="45%" height="700">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img1.imgtp.com/2023/09/08/0TYlBrFx.png" alt="首页" width="45%" height="700">
-<img src="https://img1.imgtp.com/2023/09/08/p5Icq0z3.png" alt="首页" width="45%" height="600">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img1.imgtp.com/2023/09/08/I2EXMdsN.png" alt="首页" width="45%" height="600">
-<img src="https://img1.imgtp.com/2023/09/08/EQDgjmyO.png" alt="首页" width="45%" height="300">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img1.imgtp.com/2023/09/08/p4V5bWkJ.png" alt="首页" width="45%" height="300">
-<img src="https://img1.imgtp.com/2023/09/08/4a6kD2JA.jpg" alt="首页" width="45%" height="300">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img1.imgtp.com/2023/09/09/DsjmBr2x.jpg" alt="首页" width="45%" height="300">
-<img src="https://img1.imgtp.com/2023/09/08/H9t7tBGp.png" alt="首页" width="45%" height="300">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img1.imgtp.com/2023/09/08/19SKxug2.png" alt="首页" width="45%" height="300">
+<img src="https://img1.imgtp.com/2023/09/08/lqzHlzSc.png" alt="注册" width="45%" height="250">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img1.imgtp.com/2023/09/08/fXMgKr0p.png" alt="登录" width="45%" height="250"><br/><br/>
+<img src="https://img1.imgtp.com/2023/09/08/EFE4At0l.png" alt="首页" width="45%" height="700">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img1.imgtp.com/2023/09/08/IXNVERBE.png" alt="首页" width="45%" height="700"><br/><br/>
+<img src="https://img1.imgtp.com/2023/09/08/OJwec03K.png" alt="首页" width="45%" height="700">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img1.imgtp.com/2023/09/08/0TYlBrFx.png" alt="首页" width="45%" height="700"><br/><br/>
+<img src="https://img1.imgtp.com/2023/09/08/p5Icq0z3.png" alt="首页" width="45%" height="600">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img1.imgtp.com/2023/09/08/I2EXMdsN.png" alt="首页" width="45%" height="600"><br/><br/>
+<img src="https://img1.imgtp.com/2023/09/08/EQDgjmyO.png" alt="首页" width="45%" height="300">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img1.imgtp.com/2023/09/08/p4V5bWkJ.png" alt="首页" width="45%" height="300"><br/><br/>
+<img src="https://img1.imgtp.com/2023/09/08/4a6kD2JA.jpg" alt="首页" width="45%" height="300">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img1.imgtp.com/2023/09/09/DsjmBr2x.jpg" alt="首页" width="45%" height="300"><br/><br/>
+<img src="https://img1.imgtp.com/2023/09/08/H9t7tBGp.png" alt="首页" width="45%" height="300">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img1.imgtp.com/2023/09/08/19SKxug2.png" alt="首页" width="45%" height="300"><br/><br/>
 <img src="https://img1.imgtp.com/2023/09/09/qgbR5RS3.jpg" alt="首页" width="45%" height="220">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img1.imgtp.com/2023/09/09/8ok5y7l4.jpg" alt="首页" width="45%" height="220">
 
 
